@@ -1,7 +1,7 @@
 # learning git
 ### what is git?
 #### it's a program help you to connect between your local PC and the cloud (GitHub) using specific command also using git you can show the edit history 
-1. what we learn today
+##### what we learn today
 1. pwd to show your path 
 2. ls to show all files 
 3. clear 

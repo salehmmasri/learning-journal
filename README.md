@@ -8,6 +8,6 @@
  
 | links                                                                                   |      title    |
 |-----------------------------------------------------------------------------------------|:-------------:|
-| [learning-markdown](hhttps://salehmmasri.github.io/learning-journal/learningmarkdown)   |     read 1    |
-| [learning-git](hhttps://salehmmasri.github.io/learning-journal/learning-git)            |     read 1    |
-| col 3 is                                                                                | right-aligned |
+| [learning-markdown](https://salehmmasri.github.io/learning-journal/learningmarkdown)   |     read 1    |
+| [learning-git](https://salehmmasri.github.io/learning-journal/learning-git)            |     read 3    |
+https://salehmmasri.github.io/learning-journal/learningmarkdown
