@@ -6,8 +6,9 @@
 ![CR7](https://www.albawaba.com/sites/default/files/styles/de2e_standard/public/2020-04/%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D9%8A%D8%A7%D9%86%D9%88%20%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88.jpg?h=d1cb525d&itok=cx2NAzgK)
 [MY Github](https://salehmmasri.github.io/learning-journal/)
  
-| links                                                                                  |      title    |
-|----------------------------------------------------------------------------------------|:-------------:|
-| [learning-markdown](https://salehmmasri.github.io/learning-journal/learningmarkdown)   |     read 1    |
-| [Coder's Computer](https://salehmmasri.github.io/learning-journal/the coder's computer)|     read 2    |
-| [learning-git](https://salehmmasri.github.io/learning-journal/learning-git)            |     read 3    |
+| links                                                                                           |      title    |
+|-------------------------------------------------------------------------------------------------|:-------------:|
+| [learning-markdown](https://salehmmasri.github.io/learning-journal/learningmarkdown)            |     read 1    |
+| [Coder's Computer](https://salehmmasri.github.io/learning-journal/the coder's computer)         |     read 2    |
+| [learning-git](https://salehmmasri.github.io/learning-journal/learning-git)                     |     read 3    |
+| [Coder's Computer](https://salehmmasri.github.io/learning-journal/structure-web-pages-with-html)|     read 4    |
