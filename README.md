@@ -9,4 +9,5 @@
 | links                                                                                  |      title    |
 |----------------------------------------------------------------------------------------|:-------------:|
 | [learning-markdown](https://salehmmasri.github.io/learning-journal/learningmarkdown)   |     read 1    |
+| [Coder's Computer](https://salehmmasri.github.io/learning-journal/the coder's computer)|     read 2    |
 | [learning-git](https://salehmmasri.github.io/learning-journal/learning-git)            |     read 3    |
