@@ -13,7 +13,7 @@
 | [learning-git](https://salehmmasri.github.io/learning-journal/learning-git)                     |     read 3    |
 | [Coder's Computer](https://salehmmasri.github.io/learning-journal/structure-web-pages-with-html)|     read 4    |
 | [learning-git](https://salehmmasri.github.io/learning-journal/learning-git)                     |     read 5    |
-| [Computer-Architecture](https://salehmmasri.github.io/computer-architecture)                    |     read 6    |
+| [Computer-Architecture](ehmmasri.github.io/learning-journal/computer-architecture)              |     read 6    |
 | [Dynamic-web-js](https://salehmmasri.github.io/learning-journal/Dynamic-web-pages-JavaScript)   |     read 6    |
 | [learning-css](https://salehmmasri.github.io/learning-journal/learning-css)                     |     read 7    |
 | [Operators-and-Loops](https://salehmmasri.github.io/learning-journal/loops)                     |     read 8    |
