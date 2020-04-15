@@ -14,4 +14,4 @@
 | [Coder's Computer](https://salehmmasri.github.io/learning-journal/structure-web-pages-with-html)|     read 4    |
 | [learning-git](https://salehmmasri.github.io/learning-journal/learning-git)                     |     read 5    |
 | [Dynamic-web-js](https://salehmmasri.github.io/learning-journal/Dynamic-web-pages-JavaScript)   |     read 6    |
-| [learning-css](https://salehmmasri.github.io/learning-journal/Dynamic-web-pages-JavaScript)     |     read 6    |
+| [learning-css](https://salehmmasri.github.io/learning-journal/learning-css)                     |     read 6    |
